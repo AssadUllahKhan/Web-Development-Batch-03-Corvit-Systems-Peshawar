@@ -1,16 +1,16 @@
 # 🌐 Web Development Batch-03 – Corvit Systems Peshawar
 
 Welcome to the official repository for **Web Development Batch-03** at **Corvit Systems, Peshawar**.  
-This repository is maintained by **Assad Ullah Khan** and contains all the learning materials shared during class sessions.
+This repository is maintained by instrucor **Assad Ullah Khan** and contains all the learning materials shared during class sessions.
 
 ---
 
 ## 📂 Repository Contents
 
-- 💻 **Daily Classwork** – Code examples, exercises, and practice files  
-- 🖥️ **Lecture Slides** – PowerPoint slides and PDFs used during lectures  
-- 🧾 **Assignments & Projects** – Tasks and projects for hands-on learning  
-- 📘 **Reference Material** – Helpful documents and resources for revision  
+- 💻 **Daily Classwork** – Code examples, exercises, and practice files
+- 🖥️ **Lecture Slides** – PowerPoint slides and PDFs used during lectures
+- 🧾 **Assignments & Projects** – Tasks and projects for hands-on learning
+- 📘 **Reference Material** – Helpful documents and resources for revision
 
 ---
 
@@ -23,9 +23,9 @@ Students are encouraged to check the repository regularly for the latest updates
 
 ## ⚙️ How to Access
 
-1. Visit the repository on GitHub.  
+1. Visit the repository on GitHub.
 2. Click on the **Code** button and then choose:
-   - **Download ZIP** – To download all files at once  
+   - **Download ZIP** – To download all files at once
    - Or use **Git clone** to sync updates automatically:
      ```bash
      git clone https://github.com/<your-username>/Web-Development-Batch-03-Corvit-Systems-Peshawar.git
@@ -39,16 +39,16 @@ Students are encouraged to check the repository regularly for the latest updates
 **Instructor:** Assad Ullah Khan  
 📧 **Email:** assadullahkhan556@gmail.com  
 🔗 **LinkedIn:** [www.linkedin.com/in/assadullahkhan](https://www.linkedin.com/in/assadullahkhan)  
-🏫 **Institute:** Corvit Systems, Peshawar  
+🏫 **Institute:** Corvit Systems, Peshawar
 
 ---
 
 ## 💡 Tips for Students
 
-- Check this repository **daily** for updates.  
-- Practice each code example on your own system.  
-- Revise the slides after every class.  
-- Don’t hesitate to ask questions — learning is a journey!  
+- Check this repository **daily** for updates.
+- Practice each code example on your own system.
+- Revise the slides after every class.
+- Don’t hesitate to ask questions — learning is a journey!
 
 ---
 
