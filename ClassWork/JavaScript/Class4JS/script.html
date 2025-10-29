@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      // iife
+      // (function iife(a) {
+      //   const b = a;
+      //   console.log(b);
+      // })(30);
+
+      // callback
+      // function name(callback) {
+      //   callback();
+      // }
+
+      // function greet() {
+      //   console.log("hello world");
+      // }
+      // name(greet);
+
+      // function greetUser(name) {
+      //   function getMessage() {
+      //     return name;
+      //   }
+      //   return getMessage;
+      // }
+
+      // const greet = greetUser("Mehran");
+      // console.log(greet());
+
+      // Objects
+      let student = {
+        name: "Mehran",
+        age: 25,
+        department: "Computer Science",
+        university: "CECOS university",
+        isGraduated: false,
+      };
+      // console.log(student.name);
+      // console.log(student[("age", "department")]);
+
+      // student["currentSemester"] = 7;
+      // student["rollNumber"] = "CS-12345";
+      delete student.isGraduated;
+      console.log(student);
+    </script>
+  </body>
+</html>
