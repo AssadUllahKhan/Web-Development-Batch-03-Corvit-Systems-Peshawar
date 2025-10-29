@@ -1,7 +1,7 @@
 # 🌐 Web Development Batch-03 – Corvit Systems Peshawar
 
 Welcome to the official repository for **Web Development Batch-03** at **Corvit Systems, Peshawar**.  
-This repository is maintained by instrucor **Assad Ullah Khan** and contains all the learning materials shared during class sessions.
+This repository is maintained by instructor **Assad Ullah Khan** and contains all the learning materials shared during class sessions.
 
 ---
 
