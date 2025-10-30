@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      // map
+      const numbers = [1, 11, 12, 4, 1];
+      const mul2 = numbers.map((num) => num * 2);
+      console.log(mul2);
+
+      // filter
+      const filter = numbers.filter((num) => num % 2 === 1);
+      console.log(filter);
+
+      // forEach
+      numbers.forEach((num) => console.log(num));
+
+      //reduce
+      const sum = numbers.reduce(
+        (accumulator, current) => accumulator + current,
+        0
+      );
+      console.log(sum);
+
+      // array of objects
+
+      const students = [
+        { name: "Alice", score: 85 },
+        { name: "Bob", score: 92 },
+        { name: "Charlie", score: 78 },
+      ];
+
+      // filter for score greater than 80
+      const highScorers = students.filter((student) => student.score > 80);
+      console.log(highScorers);
+
+      // sorting aarray
+      const sortedarray = numbers.sort((a, b) => a - b);
+      console.log(sortedarray);
+
+      // marging arrays
+      const array1 = [1, 2, 3];
+      const array2 = [4, 5, 6];
+      const array3 = [7, 8, 9];
+      const array4 = [10, 11, 12];
+      // const mergedArray = array1.concat(array2, array3, array4);
+      const mergedArray = [...array1, ...array2, ...array3, ...array4];
+      console.log(mergedArray);
+
+      // json
+      const json = {
+        "name": "John Doe",
+        "age": "30",
+        "city": "New York",
+      };
+
+      const jsonString = JSON.parse(json);
+      console.log(jsonString);
+    </script>
+  </body>
+</html>
