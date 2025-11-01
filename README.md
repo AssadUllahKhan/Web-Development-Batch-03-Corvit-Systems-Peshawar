@@ -77,7 +77,7 @@ Happy Coding! 🚀
 
 
 <p align="center">
-  Made with by <b>Assad Ullah Khan</b><br>
+  Made by <b>Assad Ullah Khan</b><br>
   Instructor | Web Developer | AI Researcher
 </p>
 
