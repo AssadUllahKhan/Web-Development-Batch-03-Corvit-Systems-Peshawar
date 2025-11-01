@@ -1,7 +1,12 @@
-# 🌐 Web Development Batch-03 – Corvit Systems Peshawar
+<h1 align="center">🌐 Web Development – Batch 03</h1>
+<h3 align="center">Corvit Systems, Peshawar</h3>
 
-Welcome to the official repository for **Web Development Batch-03** at **Corvit Systems, Peshawar**.  
-This repository is maintained by instructor **Assad Ullah Khan** and contains all the learning materials shared during class sessions.
+<p align="center">
+  <img src="https://img.shields.io/badge/Instructor-Assad%20Ullah%20Khan-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Institution-Corvit%20Systems%20Peshawar-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Batch-03-success?style=for-the-badge" />
+</p>
+
 
 ---
 
@@ -23,14 +28,15 @@ Students are encouraged to check the repository regularly for the latest updates
 
 ## ⚙️ How to Access
 
-1. Visit the repository on GitHub.
-2. Click on the **Code** button and then choose:
-   - **Download ZIP*:* To download all files at once
-   - Or use **Git clone** to sync updates automatically:
-     ```bash
-     git clone https://github.com/<your-username>/Web-Development-Batch-03-Corvit-Systems-Peshawar.git
-     ```
-3. Open the downloaded files in your code editor (VS Code recommended).
+### 🔽 Option 1: Download ZIP
+1. Click on the green **“Code”** button above.  
+2. Select **“Download ZIP”** to save all files locally.
+
+### 🧩 Option 2: Clone the Repository
+For continuous updates:
+```bash
+git clone https://github.com/AssadUllahKhan/Web-Development-Batch-03-Corvit-Systems-Peshawar.git
+```
 
 ---
 
@@ -52,5 +58,33 @@ Students are encouraged to check the repository regularly for the latest updates
 
 ---
 
+## 💡 Success Tips
+
+- Code daily and practice consistently.  
+- Experiment — errors are your best teachers.  
+- Revisit each concept weekly to strengthen understanding.  
+- Collaborate with peers through GitHub.  
+- Explore official documentation for deeper learning.
+
+
+---
+
 Happy Coding! 🚀  
 **“Code daily, learn consistently, and build your future with web technologies.”**
+
+---
+
+
+
+<p align="center">
+  Made with by <b>Assad Ullah Khan</b><br>
+  Instructor | Web Developer | AI Researcher
+</p>
+
+<p align="center">
+  
+  <a href="https://github.com/AssadUllahKhan" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" height="30" />
+</a>
+</p>
+
