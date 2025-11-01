@@ -82,9 +82,15 @@ Happy Coding! 🚀
 </p>
 
 <p align="center">
-  
+  <!-- GitHub Badge -->
   <a href="https://github.com/AssadUllahKhan" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" height="30" />
-</a>
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" height="30" />
+  </a>
+
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/assad-ullah-khan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" height="30" />
+  </a>
 </p>
+
 
