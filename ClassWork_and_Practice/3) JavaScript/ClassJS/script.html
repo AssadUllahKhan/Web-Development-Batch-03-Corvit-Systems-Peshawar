@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="content">
+      <h1 id="heading1" >Hello, World!</h1>
+      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas magnam ipsa totam ab ullam sit esse aliquam a quis ex ratione, eius eaque quasi numquam provident! Excepturi dolorem saepe, laudantium corporis dicta debitis consequuntur eveniet assumenda pariatur. Ullam iste nam enim accusantium laudantium sed voluptas ipsa, iusto voluptatum laboriosam voluptates sunt exercitationem quos harum quibusdam dolores consectetur nulla itaque quas, fugit fuga esse, saepe quia? Modi eius exercitationem veniam, amet error atque placeat tempora deserunt maxime, porro in sint vel aut assumenda officia ex facere! Nulla, animi labore soluta provident illum nobis magnam facilis maiores, velit sit, modi veritatis consequuntur.</p>
+      <button onclick="mehran()">please click</button>
+      <button onclick="removeDiv()">click to remove div</button>
+      <button onclick="addingDiv()">Click to add div</button>
+      <button onclick="addingchild()">Click to add child</button>
+
+    </div>
+    
+    <script>
+      const content = document.querySelector('.content');
+      content.style.backgroundColor = "lightblue";
+      const h3 = document.createElement('h3');
+      h3.innerText = "this is a created h3 tag";
+
+      function addingchild(){
+        content.appendChild(h3);
+      }
+
+      const para = document.querySelector('p');
+      // content.style.padding = "20px";
+      // function clicked(){
+      //   alert("you clicked me");
+      // }
+
+      function mehran(){
+        content.style.backgroundColor = "green";
+        para.style.fontSize = "50px";
+
+      }
+
+      const newdiv = document.createElement('div');
+      function addingDiv(){
+        newdiv.innerHTML = "<h2>This is a new div</h2><p>This is a new paragraph inside the new div.</p>";
+      document.body.appendChild(newdiv);
+      }
+
+      function removeDiv(){
+      newdiv.remove();
+      }
+    </script>
+  </body>
+</html>
