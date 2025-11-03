@@ -88,7 +88,7 @@ Happy Coding! 🚀
   </a>
 
   <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/assad-ullah-khan/" target="_blank">
+  <a href="https://www.linkedin.com/in/assadullahkhan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" height="30" />
   </a>
 </p>
