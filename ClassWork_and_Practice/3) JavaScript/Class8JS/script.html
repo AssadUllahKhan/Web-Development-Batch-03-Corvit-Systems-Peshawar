@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .title {
+        color: red;
+        font-size: 50px;
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="content" style="width: 500px; height: 90vh;">
+      <h1 id="heading1" >Hello, World!</h1>
+      <p class="para">Lorem ipsum dolor sit.</p>
+      <p class="para">Lorem ipsum dolor sit.</p>
+      <p class="para">Lorem ipsum dolor sit.</p>
+      <!-- <button onclick="mehran()">please click</button>
+      <button onclick="removeDiv()">click to remove div</button>
+      <button onclick="addingDiv()">Click to add div</button>
+      <button onclick="setAttr()">Click to add child</button> -->
+      <button class="btn">click it</button>
+    </div>
+    
+    <script>
+
+      
+
+      function buttonfunc(){
+        alert("Button was clicked!");
+      }
+      document.querySelector(".btn").onclick = buttonfunc;
+
+      // const paragraph = document.querySelectorAll(".para");
+      // paragraph.forEach(e => {
+      //   e.style.backgroundColor = "lightblue";
+      // });
+
+      // const button = document.querySelector(".btn");
+      // button.addEventListener("keyup", function(){
+      //   alert("Button was clicked!");
+      // });
+
+      // const paragraph = document.querySelector(".para");
+      // paragraph.previousElementSibling.style.backgroundColor = "yellow";
+      // const getAttr = document.querySelector(".content");
+      // console.log(getAttr.getAttribute("style"));
+
+      // function setAttr(){
+      // const addClass = document.getElementById("heading1");
+      // addClass.setAttribute("class", "title");
+      // addClass.removeAttribute("id");
+      // }
+// acessing child
+      // const childAccess = document.querySelector(".content");
+      // console.log(childAccess.children);
+
+
+      // accessing parent
+      // document.querySelector(".para").parentElement.setAttribute("style", "background-color: lightgray;");
+
+      
+    </script>
+  </body>
+</html>
